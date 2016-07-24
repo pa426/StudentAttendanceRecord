@@ -1,0 +1,4 @@
+Name   	       Attendance Status
+Alexandru Popa 1
+Larisa Aionesei 0
+Grigore Dodon 1 

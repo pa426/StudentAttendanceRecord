@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentAttendanceRecord.Admin">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAQAAAEAAAAAAgAAAAQQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Admin.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.CheckAttendance">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAYAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>CheckAttendance.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.CheckStudentAttendance">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAYAAAAAAAAAAgAAAAQQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>CheckStudentAttendance.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Course">
+    <Position X="15.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAAAAAAABAAAAAQAAAAAAAAAAACAAAAAgAAhAA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.DBConn">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BoAAAAAAAACwAAANQACgIAAAAIAiABAgQBEBBBAAAAA=</HashCode>
+      <FileName>DBConn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.LogIn">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgEAAAAAAAAAAAAAgAAAAQQAAAAAAAAgIAAAA=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.LogOut">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>LogOut.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.ManageList">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAABAEAAeAIAEAAAAAAgAAACuQAAAAIAAAAIAAAA=</HashCode>
+      <FileName>ManageLists.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Print">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Print.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.PrintHelper">
+    <Position X="18" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PrintHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.PrintList">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAEAAYAAAEAAACADgAAAAgcBAAAAAAAAIAAAA=</HashCode>
+      <FileName>PrintList.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Record">
+    <Position X="19.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAQAgAAEAIAAAAAAAAAEAAAABAAAA=</HashCode>
+      <FileName>Record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Room">
+    <Position X="12.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAACAAAAAgAAAAAABACAAAQAgAAAAAAAABAAAAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Session">
+    <Position X="12" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIkAAACIAAAAgAAAAgAAABIAAAAQAACAAABAgACBQA=</HashCode>
+      <FileName>Session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Singleton">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAAA=</HashCode>
+      <FileName>Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.SiteMaster">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEQAAAEAAAAAABAQKBAAAAAAAFIAABAAAAAAsAAAA=</HashCode>
+      <FileName>Site.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Staff">
+    <Position X="14" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAEAAAABAEAAQABAAEAAACAAAAAgAAQAA=</HashCode>
+      <FileName>Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Student">
+    <Position X="10.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACJABAAgAAAAACAAAAAgAAAAAAAAAAAAAAAAAAACQAQ=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAttendanceRecord.Week">
+    <Position X="17.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAAACACAAAAAgQAAAAEAAAQAAAAEAAAAAAAAIAAA=</HashCode>
+      <FileName>Week.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
